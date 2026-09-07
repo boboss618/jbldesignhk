@@ -1,22 +1,19 @@
-# JB Design 官网
+# JB Design HK Website
 
-这是一个可直接上线的静态官网模板，已按参考站思路整理成：
-- 首屏介绍
-- 服务内容
-- 案例展示
-- 合作流程
-- 联系表单
+Single-page bilingual website sample for JB Design HK.
 
-## 文件
-- `index.html`
+## Features
+- 繁中 / English toggle
+- Hero section with office interior imagery
+- Case showcase
+- Services
+- Material options
+- Process
+- Pricing reference
+- Contact form
 
-## 上线方式
-1. 把这个目录里的 `index.html` 上传到域名主机默认目录。
-2. 如果是常见托管平台，直接上传到 `public_html` 或根目录即可。
-3. 若主机是 Apache/Nginx，确认根路径指向该目录。
-4. 访问 `https://jbldesignhk.com` 和 `https://www.jbldesignhk.com` 验证。
+## Live site
+https://boboss618.github.io/jbldesignhk/
 
-## 后续建议
-- 替换顶部品牌名为弟弟公司正式名称。
-- 把案例区替换成真实案例名和图片。
-- 把联系表单接到你的邮件或表单服务。
+## Files
+- index.html
